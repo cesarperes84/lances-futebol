@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#msg {
+  overflow-y: auto;
+  height: 400px;
+  display: flex;
+  flex-direction:column-reverse;
+}
