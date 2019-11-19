@@ -5,7 +5,7 @@ import {
   Switch,
 } from 'react-router-dom';
 
-import './bootstrap.css';
+import './css/bootstrap.css';
 import './index.css';
 
 import InsertView from './view/InsertView';
